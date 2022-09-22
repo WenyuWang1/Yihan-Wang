@@ -27,5 +27,9 @@ The display result is shown below:
 
 Clearer gifs are in the gif folder
 
-The diagram that showws how the components interact is showing below:
-![4](https://user-images.githubusercontent.com/113371324/191817534-be1cdefa-87f8-48ba-b8a0-3de8ff8355df.png)
+
+diagram that showws how the components interact is showing below:
+
+The![111](https://user-images.githubusercontent.com/113371324/191833299-10c01f1e-5b94-4646-b18b-c7938de7c449.jpg)
+
+
