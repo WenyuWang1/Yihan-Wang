@@ -3,10 +3,9 @@
 
 import board
 import time
-import neopixel
-from adafruit_apds9960.apds9960 import APDS9960
-
 import usb_hid
+
+from adafruit_apds9960.apds9960 import APDS9960
 from adafruit_hid.keyboard import Keyboard
 from adafruit_hid.keyboard_layout_us import KeyboardLayoutUS
 from adafruit_hid.keycode import Keycode
