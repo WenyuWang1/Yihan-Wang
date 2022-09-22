@@ -10,6 +10,7 @@ To display APDS9960’s sensor readings in real time, we have to change the numb
 ![screenshot3](https://user-images.githubusercontent.com/113371324/191817331-54c98fd4-b16e-46f1-842a-02392a846df0.png)
 
 The display result is shown below:
+
 ![4_4record_AdobeExpress](https://user-images.githubusercontent.com/113371324/191828183-40272fe2-ccc7-48b0-aeb1-79829e2eb0b7.gif)
 
 
@@ -17,6 +18,8 @@ The display result is shown below:
 In part 4, we visualize APDS9960’s brightness reading by sending keyboard output and displaying them on the laptop. The sensor reads brightness twice in a very short time and the data are saved in different variables. By comparing these variables, the controller knows whether the environment is getting brighter or darker. And when the brightness increases, the keyboard will output "Crazy Thursday !!!". When the brightness increases, the keyboard will output "V me 50". 
 
 The display result is shown below:
+![4_3_AdobeExpress](https://user-images.githubusercontent.com/113371324/191828840-11dc510b-9e33-4c6f-b52e-b9d7b33477c2.gif)
+
 
 
 The diagram that showws how the components interact is showing below:
