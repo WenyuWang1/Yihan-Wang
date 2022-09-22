@@ -13,6 +13,8 @@ The display result is shown below:
 
 ![4_4record_AdobeExpress](https://user-images.githubusercontent.com/113371324/191828183-40272fe2-ccc7-48b0-aeb1-79829e2eb0b7.gif)
 
+Clearer gifs are in the gif folder
+
 
 # Part 4:
 In part 4, we visualize APDS9960’s brightness reading by sending keyboard output and displaying them on the laptop. The sensor reads brightness twice in a very short time and the data are saved in different variables. By comparing these variables, the controller knows whether the environment is getting brighter or darker. And when the brightness increases, the keyboard will output "Crazy Thursday !!!". When the brightness increases, the keyboard will output "V me 50". 
