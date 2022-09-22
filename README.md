@@ -23,7 +23,7 @@ The display result is shown below:
 
 ![WeChat_20220922150128_AdobeExpress](https://user-images.githubusercontent.com/113371324/191829813-82572219-fa3c-4e8a-badd-ee54058026aa.gif)
 
-
+Clearer gifs are in the gif folder
 
 The diagram that showws how the components interact is showing below:
 ![4](https://user-images.githubusercontent.com/113371324/191817534-be1cdefa-87f8-48ba-b8a0-3de8ff8355df.png)
