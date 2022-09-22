@@ -33,7 +33,7 @@ while True:
     # set up the variable to detect the change of the light intensity
     dif = n - m
 
-    # an 'escape hatch', if the light intensity is too weakV me 50, the program breaks out of the loop
+    # an 'escape hatch', if the light intensity is too weak, the program breaks out of the loop
     if  r < 15 and g < 15 and b < 15:
         break
 
