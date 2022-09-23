@@ -21,9 +21,10 @@ In part 4, we visualize APDS9960’s brightness reading by sending keyboard outp
 
 The display result is shown below:
 
+![4 4 (1)](https://user-images.githubusercontent.com/113371324/191993379-b513ab70-975d-4c20-a816-60d49bcee2ae.gif)
 
 
-![WeChat_20220922150128_AdobeExpress](https://user-images.githubusercontent.com/113371324/191829813-82572219-fa3c-4e8a-badd-ee54058026aa.gif)
+
 
 Clearer gifs are in the gif folder
 
